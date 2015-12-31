@@ -1,0 +1,16 @@
+
+# Site settings
+title: mike-studio.com
+email: hello@mike-studio.com
+description: "Personal blog about web development"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mike-studio.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+permalink: /articles/:title
+exclude: ['about.md']
+
+gems: [jekyll-paginate]
+paginate: 5
