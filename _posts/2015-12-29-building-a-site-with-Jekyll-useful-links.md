@@ -20,7 +20,7 @@ So how to start with Jekyll? I don't want to rewrite other tutorials covering th
 \- If you'd like to have all of your post paginated (I bet you would), then here you'll find some really useful tips on this topic: [ericlagergren.com/blog/jekyll-pagination/](http://www.ericlagergren.com/blog/jekyll-pagination/)
 Hint from me: remember to install on your system an additional gem which enables pagination. To do this simply run a console and type: `gem install jekyll-paginate`. Then add to your _config.yml file a line: `gems: [jekyll-paginate]`.
 
-\- At the end you may want to deploy the site to your Github repo and build the blog straight from there. Github Pages service gives you 1GB server space and the domain of username.github.io for free.
+\- At the end you may want to deploy your site to the Github repo and build the blog straight from there. Github Pages service gives you 1GB server space and the domain of username.github.io for free.
 All info needed to run your Jekyll site on Github you'll find here: [github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages/)
 
 This is the end of setting up a site with Jekyll but the beginning of having fun with it. I bet you'll spend hours on making your blog looking unique and then days and months on filling it with a valuable content. Enjoy!
